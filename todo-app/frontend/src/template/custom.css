@@ -1,0 +1,16 @@
+.markedAsDone {
+	text-decoration: line-through;
+	color: #777;
+}
+
+.w-105 {
+	width: 105px;
+}
+
+.pb-60 {
+	padding-bottom: 60px;
+}
+
+.table-cell {
+	display: table-cell;
+}
